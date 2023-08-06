@@ -1,13 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=aristides-01&color=006bed)
 
 <h3>Olá, eu sou Aristides, cara apaixonado por Front-end</h3>
-- 🤔 Explorando novas tecnologias.
-- 💼 Trabalhando com Front-End
-- 🌱 &nbsp; Aprendendo mais sobre **Typescript, Nextjs**.
+- 🤔 Explorando novas tecnologias. <br>
+- 💼 Trabalhando com Front-End <br>
+- 🌱 &nbsp; Aprendendo mais sobre Typescript, Nextjs.
 
 <h3>Minhas Skills</h3>
 
-**Aplicações e dados**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
