@@ -3,7 +3,7 @@
 <h3>Olá, eu sou Aristides, cara apaixonado por Front-end</h3>
 - 🤔 Explorando novas tecnologias. <br>
 - 💼 Trabalhando com Front-End <br>
-- 🌱 &nbsp; Aprendendo mais sobre Typescript, Nextjs.
+- 🌱 &nbsp; Aprendendo mais sobre Typescript.
 
 <h3>Minhas Skills</h3>
 
